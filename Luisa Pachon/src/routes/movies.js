@@ -23,3 +23,4 @@ router.post('/', (req, res) => {
     }
 });
 
+odule.exports = router;
