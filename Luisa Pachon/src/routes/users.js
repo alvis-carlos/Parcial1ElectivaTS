@@ -18,9 +18,6 @@ router.get('/two', (req, res) => {
     res.send('Hello Luisa')
 });
 
-router.get('/three', (req, res) => {
-    res.send('Hello Fernando')
-});
 
 // Carlos
 
